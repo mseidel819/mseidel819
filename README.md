@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mseidel819
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in ... Learning programming and development to find a job closer to home.
 - 🌱 I’m currently learning ... Javascript and front end development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can email me at mseidel819@gmail.com
 
 <!---
