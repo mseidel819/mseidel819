@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in ... Learning programming and development to find a job closer to home.
+- 👀 I’m interested in ... Learning programming and development in order to change careers
 - 🌱 I’m currently learning ... Javascript and front end development
 - 📫 How to reach me ... you can email me at mseidel819@gmail.com
 
