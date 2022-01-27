@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in ... Learning programming and development in order to change careers
-- 🌱 I’m currently learning ... Javascript and front end development
+- 🌱 I’m currently learning ... React through the ZTM course, 'Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)'
 - 📫 How to reach me ... you can email me at mseidel819@gmail.com
 
 <!---
