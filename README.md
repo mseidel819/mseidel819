@@ -7,8 +7,8 @@ mseidel819/mseidel819 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1> About me</h1>
-<p> Matt graduated from Illinois Wesleyan University in 2012 with a double major in music and philosophy. He got his master’s degree in trombone performance at Southern Illinois University in 2015.
+<p> I am a Front-end software and web developer with a non-traditional background in music. 
 
-While music has been the focus of Matt’s life since school, his musical success is a positive side-effect of his true passion. Matt's professional life is driven by intellectual curiosity for all things, and the commitment towards constant self-improvement. This can be most directly seen through consistent participation in continuing education courses throughout the years. Examples of these courses include weeklong instrument repair clinics anytime they are available, college courses at heartland community college, and programming courses on Udemy.com.
+While music has been the focus of life since school, my musical success is a positive side-effect of my true passion. I’ve found that my professional life has been driven by an intellectual curiosity for all things, and the commitment towards constant self-improvement.
 
-Qualities that define Matt are his positive moral character, strong work ethic, critical thinking, problem solving skills, and his focused, yet lighthearted approach to work. You can rest easy knowing that Matt will be a calming, positive, and enjoyable addition to your team! </p>
+Qualities that define me are my positive moral character, strong work ethic, critical thinking, problem solving skills, and a focused, yet lighthearted approach to work. You can rest easy knowing that I will be a calming, positive, and enjoyable addition to your team! </p>
