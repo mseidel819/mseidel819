@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in ... Learning front-end development
-- 🌱 I’m currently learning ... React, MUI, TypeScript, Redux
+- 👀 I’m interested in ... Front-end development
 - 📫 How to reach me ... you can email me at mseidel819@gmail.com
 
 <!---
