@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in ... Front-end development
-- 📫 How to reach me ... you can email me at mseidel819@gmail.com
 
 <!---
 mseidel819/mseidel819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
