@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
   <li>Open to both frontend and backend software engineering opportunities.</li>
 </ul>
 
+
+Python • Django • Django-Rest-Framework • Docker • JavaScript • Typescript • Svelte • React • Redux • Next.js • Node.js • Material-UI • Git • SQL • PostgreSQL • MongoDB
+
